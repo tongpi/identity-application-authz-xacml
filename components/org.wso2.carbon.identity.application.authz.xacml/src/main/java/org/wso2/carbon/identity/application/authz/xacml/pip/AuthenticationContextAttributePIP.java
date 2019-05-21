@@ -51,7 +51,7 @@ import java.util.Set;
  */
 public class AuthenticationContextAttributePIP extends AbstractPIPAttributeFinder {
 
-    private static final String PIP_NAME = "AuthenticationContextAttributePIP";
+    private static final String PIP_NAME = "认证上下文属性PIP";
 
     private static final Set<String> SUPPORTED_ATTRIBUTES;
     private static final Log log = LogFactory.getLog(AuthenticationContextAttributePIP.class);
